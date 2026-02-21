@@ -1,0 +1,15 @@
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/bin/Debug/net10.0/Renting.Application.deps.json
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/bin/Debug/net10.0/Renting.Application.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/bin/Debug/net10.0/Renting.Application.pdb
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/bin/Debug/net10.0/Renting.Domain.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/bin/Debug/net10.0/Renting.Domain.pdb
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.csproj.AssemblyReference.cache
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.AssemblyInfoInputs.cache
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.AssemblyInfo.cs
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.csproj.CoreCompileInputs.cache
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting..D403953E.Up2Date
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/refint/Renting.Application.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/Renting.Application.pdb
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/obj/Debug/net10.0/ref/Renting.Application.dll
