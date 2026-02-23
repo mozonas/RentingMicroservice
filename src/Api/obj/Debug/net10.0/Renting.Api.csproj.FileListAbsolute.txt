@@ -35,3 +35,7 @@
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.genruntimeconfig.cache
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/ref/Renting.Api.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Infrastructure.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Infrastructure.pdb
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.sourcelink.json
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Scalar.AspNetCore.dll

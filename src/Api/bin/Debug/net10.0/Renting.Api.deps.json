@@ -9,7 +9,9 @@
       "Renting.Api/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.3",
-          "Renting.Application": "1.0.0"
+          "Renting.Application": "1.0.0",
+          "Renting.Infrastructure": "1.0.0",
+          "Scalar.AspNetCore": "2.12.46"
         },
         "runtime": {
           "Renting.Api.dll": {}
@@ -34,6 +36,14 @@
           }
         }
       },
+      "Scalar.AspNetCore/2.12.46": {
+        "runtime": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.12.46.0",
+            "fileVersion": "2.12.46.0"
+          }
+        }
+      },
       "Renting.Application/1.0.0": {
         "dependencies": {
           "Renting.Domain": "1.0.0"
@@ -48,6 +58,18 @@
       "Renting.Domain/1.0.0": {
         "runtime": {
           "Renting.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Renting.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Renting.Application": "1.0.0",
+          "Renting.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Renting.Infrastructure.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -75,12 +97,24 @@
       "path": "microsoft.openapi/2.0.0",
       "hashPath": "microsoft.openapi.2.0.0.nupkg.sha512"
     },
+    "Scalar.AspNetCore/2.12.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8euCVn9hH/FnElhN6zXsbVkZZCbC39sTKLKjd+jcdjHHdF9IZoAKMVDqWLZNTwlGJjrk0VMoVgUcoYtD2hwjpw==",
+      "path": "scalar.aspnetcore/2.12.46",
+      "hashPath": "scalar.aspnetcore.2.12.46.nupkg.sha512"
+    },
     "Renting.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "Renting.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Renting.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

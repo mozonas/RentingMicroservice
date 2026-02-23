@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FevXDyLuya4=",
+  "dgSpecHash": "cPIU3HDATdQ=",
   "success": true,
   "projectFilePath": "/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/Renting.Api.csproj",
   "expectedPackageFiles": [
     "/home/miguel/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-    "/home/miguel/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "/home/miguel/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/miguel/.nuget/packages/scalar.aspnetcore/2.12.46/scalar.aspnetcore.2.12.46.nupkg.sha512"
   ],
   "logs": []
 }

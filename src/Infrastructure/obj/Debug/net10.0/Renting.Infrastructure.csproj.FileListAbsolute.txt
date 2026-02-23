@@ -15,3 +15,4 @@
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Infrastructure/bin/Debug/net10.0/Renting.Domain.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Infrastructure/obj/Debug/net10.0/Renting.Infrastructure.csproj.AssemblyReference.cache
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Infrastructure/obj/Debug/net10.0/Renting..0C0BD369.Up2Date
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Infrastructure/obj/Debug/net10.0/Renting.Infrastructure.sourcelink.json

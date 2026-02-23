@@ -37,6 +37,22 @@
           }
         }
       },
+      "Scalar.AspNetCore/2.12.46": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Renting.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -58,6 +74,20 @@
         },
         "runtime": {
           "bin/placeholder/Renting.Domain.dll": {}
+        }
+      },
+      "Renting.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Renting.Application": "1.0.0",
+          "Renting.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Renting.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Renting.Infrastructure.dll": {}
         }
       }
     }
@@ -99,6 +129,25 @@
         "microsoft.openapi.nuspec"
       ]
     },
+    "Scalar.AspNetCore/2.12.46": {
+      "sha512": "8euCVn9hH/FnElhN6zXsbVkZZCbC39sTKLKjd+jcdjHHdF9IZoAKMVDqWLZNTwlGJjrk0VMoVgUcoYtD2hwjpw==",
+      "type": "package",
+      "path": "scalar.aspnetcore/2.12.46",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net10.0/Scalar.AspNetCore.dll",
+        "lib/net10.0/Scalar.AspNetCore.xml",
+        "lib/net8.0/Scalar.AspNetCore.dll",
+        "lib/net8.0/Scalar.AspNetCore.xml",
+        "lib/net9.0/Scalar.AspNetCore.dll",
+        "lib/net9.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.2.12.46.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
     "Renting.Application/1.0.0": {
       "type": "project",
       "path": "../Application/Renting.Application.csproj",
@@ -108,12 +157,19 @@
       "type": "project",
       "path": "../Domain/Renting.Domain.csproj",
       "msbuildProject": "../Domain/Renting.Domain.csproj"
+    },
+    "Renting.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Renting.Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Renting.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.AspNetCore.OpenApi >= 10.0.3",
-      "Renting.Application >= 1.0.0"
+      "Renting.Application >= 1.0.0",
+      "Renting.Infrastructure >= 1.0.0",
+      "Scalar.AspNetCore >= 2.12.46"
     ]
   },
   "packageFolders": {
@@ -144,6 +200,9 @@
           "projectReferences": {
             "/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/Renting.Application.csproj": {
               "projectPath": "/home/miguel/Documentos/GIT/RentingMicroservice/src/Application/Renting.Application.csproj"
+            },
+            "/home/miguel/Documentos/GIT/RentingMicroservice/src/Infrastructure/Renting.Infrastructure.csproj": {
+              "projectPath": "/home/miguel/Documentos/GIT/RentingMicroservice/src/Infrastructure/Renting.Infrastructure.csproj"
             }
           }
         }
@@ -167,6 +226,10 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[10.0.3, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[2.12.46, )"
           }
         },
         "imports": [
