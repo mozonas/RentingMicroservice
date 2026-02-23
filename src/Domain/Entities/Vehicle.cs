@@ -42,4 +42,10 @@ public class Vehicle
 
         IsAvailable = true;
     }
+
+    public void UpdateAvailability(bool isAvailable)
+    {
+        IsAvailable = isAvailable;
+    }
+
 }

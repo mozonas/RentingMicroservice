@@ -8,9 +8,12 @@
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Api.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Scalar.AspNetCore.dll
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Application.dll
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Domain.dll
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Infrastructure.dll
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Application.pdb
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Infrastructure.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Domain.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.csproj.AssemblyReference.cache
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/rpswa.dswa.cache.json
@@ -20,6 +23,7 @@
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.csproj.CoreCompileInputs.cache
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.MvcApplicationPartsAssemblyInfo.cs
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.sourcelink.json
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
@@ -35,7 +39,3 @@
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.genruntimeconfig.cache
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/ref/Renting.Api.dll
-/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Infrastructure.dll
-/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Renting.Infrastructure.pdb
-/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/obj/Debug/net10.0/Renting.Api.sourcelink.json
-/home/miguel/Documentos/GIT/RentingMicroservice/src/Api/bin/Debug/net10.0/Scalar.AspNetCore.dll

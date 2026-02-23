@@ -5,8 +5,8 @@
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.AssemblyInfoInputs.cache
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.AssemblyInfo.cs
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.csproj.CoreCompileInputs.cache
+/home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.sourcelink.json
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.dll
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/refint/Renting.Domain.dll
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.pdb
 /home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/ref/Renting.Domain.dll
-/home/miguel/Documentos/GIT/RentingMicroservice/src/Domain/obj/Debug/net10.0/Renting.Domain.sourcelink.json
